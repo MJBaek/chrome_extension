@@ -3,8 +3,10 @@
 
 # dependencies
 node_modules
-template/package-lock.json
-template/yarn.lock
 
 # logs
 npm-debug.log
+
+# Backpack build
+dist
+extension.zip
